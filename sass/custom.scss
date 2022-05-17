@@ -1,0 +1,11 @@
+$font-family-sans-serif: 'Barlow Semi Condensed', sans-serif;
+
+$primary: hsl(263, 55%, 52%);
+$secondary: hsl(217, 19%, 35%);
+$success: hsl(219, 29%, 14%);
+$info: hsl(210, 46%, 95%);
+$warning: hsl(0, 0%, 81%);
+$danger: hsl(0, 0%, 100%);
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
